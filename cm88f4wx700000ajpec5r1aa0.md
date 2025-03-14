@@ -5,7 +5,7 @@ seoDescription: "2025 software trends: AI, automation, low-code platforms, block
 datePublished: Fri Mar 14 2025 06:50:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm88f4wx700000ajpec5r1aa0
 slug: 2025-developer-trends-what-to-expect
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741937127530/75a9d7b1-07f6-402e-b99b-fd1462fd050e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741938857860/40506a05-d514-48fc-a418-5572e00865b0.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741938800932/fe646d00-d687-4c2b-8f8f-eea62131f8a4.avif
 tags: trends, docker, cursor, ai-tools, windsurf, vibe-coding
 
