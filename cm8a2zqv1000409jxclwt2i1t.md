@@ -38,21 +38,20 @@ This article delves into the technical architecture, components, and implementat
 
 ### **Step-by-Step Guide**
 
-* Dashboard Features
+* Playground Interface
     
-    * Playground Interface
-        
-    * Mastra API
-        
-    * Open API Documentation
-        
-    * Swagger UI
-        
+* Mastra API
+    
+* Open API Documentation
+    
+* Swagger UI
+    
 
 ### **Concluding Remarks**
 
-* Summary and Future Directions
+* GitHub Repository
     
+
 * Bonus Challenge
     
 
@@ -374,7 +373,7 @@ Developer Relations Engineer — [@Chainlink](https://x.com/chainlink)
 
 In today’s tech-driven world, the fusion of blockchain and AI isn't just a trend—it's a revolution that's changing everything! As these groundbreaking technologies reshape industries, having a dedicated space where developers can connect, share insights, and collaborate is more crucial than ever.
 
-> **Join us and be part of this exciting journey, but don’t just take our word from it — checkout what George has to say about our community and features in the testimonial below.**
+> Checkout what George has to say about our community and features in the testimonial below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742030986147/6a3d44e0-f4a3-4f29-88bc-010da56938a3.png align="center")
 
