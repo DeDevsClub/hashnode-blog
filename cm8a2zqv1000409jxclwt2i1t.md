@@ -10,7 +10,7 @@ tags: ai, artificial-intelligence, developer, devops, developer-tools, devrel, m
 
 ---
 
-#### Our Introduction and Overview of the Mastra Starter Kit outlines our objectives, goals, and the framework and design of our project. We then explore the Mastra Framework Components and examine example integrations for agents, tools, and workflows. Additionally, we offer a Step-by-Step Guide on how to launch the playground interface, API, Open API docs, and Swagger UI. We conclude with Concluding Remarks.
+> #### *This guide walks you through Mastra's components, showing how to quickly spin-up fully-functional agents — loaded with customizable tools and a modular workflow. You will learn how to launch a local dashboard, which includes an agent playground, Mastra’s API, Open API docs, and Swagger UI .*
 
 ![Mastra Banner](https://pbs.twimg.com/profile_banners/1861308613563949057/1732605740/1500x500 align="left")
 
