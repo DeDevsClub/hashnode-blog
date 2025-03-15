@@ -1,10 +1,10 @@
 ---
-title: "Build with Mastra AI with our Starter Kit"
+title: "Mastra AI: Typescript Agent Framework"
 seoTitle: "Kickstart Your Project with Mastra AI Kit"
 seoDescription: "Mastra AI's Starter Kit enables rapid AI agent development with a modular architecture, workflows, and tools for innovative applications."
 datePublished: Sat Mar 15 2025 10:45:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm8a2zqv1000409jxclwt2i1t
-slug: build-with-mastra-ai-with-our-starter-kit
+slug: mastra-ai-framework
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742026898461/59cd545a-da24-412b-b29e-b3ab617de55d.png
 tags: ai, artificial-intelligence, developer, devops, developer-tools, devrel, mastraai, mastra, dedevs
 
