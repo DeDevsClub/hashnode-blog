@@ -175,7 +175,7 @@ export const mastra = new Mastra({
 });
 ```
 
-> #### **TypeScript Integration**
+#### **TypeScript Integration**
 
 ```json
 // package.json (dependencies)
@@ -194,7 +194,7 @@ export const mastra = new Mastra({
 }
 ```
 
-> #### Schema Validation with Zod
+#### Schema Validation with Zod
 
 ```typescript
 // Example from workflows/index.ts
@@ -210,7 +210,7 @@ const forecastSchema = z.array(
 );
 ```
 
-> #### Development Environment
+#### Development Environment
 
 ```json
 // package.json (scripts)
