@@ -329,11 +329,3 @@ Developer Relations Engineer (DRE) @ [Chainlink Labs](https://chain.link)
 > In today’s tech-driven world, the fusion of blockchain and AI isn't just a trend—it's a revolution that's changing everything! As these groundbreaking technologies reshape industries, having a dedicated space where developers can connect, share insights, and collaborate is more crucial than ever.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742042509571/20349d7a-c424-46de-9fe1-cc2902a4dec4.png align="center")
-
-> Checkout what George has to say about our community and features in the testimonial below.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742030986147/6a3d44e0-f4a3-4f29-88bc-010da56938a3.png align="center")
-
-> We created a community for professionals in Blockchain and Artificial Intelligence. Our platform connects experts, enthusiasts, and newcomers passionate about these technologies. Members collaborate on innovative projects that push the boundaries of what is possible.
-
-%[https://dedevs.club]
